@@ -1,11 +1,1 @@
-node_modules
-dist
-test/temp
-.sass-cache
-app/vendor
-app/build
-.tmp
-test/vendor/
-*.pdf
-*.log
-app/styles/*.css
+styles/main.ie.css
